@@ -27,9 +27,6 @@ function App() {
   }
 
 
-
-
-
   return (
     <div className="container mt-2" style={{ maxWidth: 400}}>
       <div className="card">
